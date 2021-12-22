@@ -1,0 +1,4 @@
+Main-Class: xts.Main
+Name: Java Disk Encryption
+Specification-Title: Disk Encryption XTS for Java(TM).
+Implementation-Title: xts
