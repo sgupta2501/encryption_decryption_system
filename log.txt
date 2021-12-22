@@ -1,0 +1,25 @@
+[2021-11-23T14:14:23.945820] Initialize Session
+[2021-11-23T14:14:43.267894] Encrypt: 1.jpeg
+[2021-11-23T14:14:52.345468] Decrypt: 1.enc.jpeg
+[2021-11-24T11:10:04.057715800] Initialize Session
+[2021-11-24T11:12:10.611982100] Close Session
+[2021-11-24T16:16:05.000772300] Initialize Session
+[2021-11-24T16:16:23.036223500] Close Session
+[2021-11-24T16:17:13.820336400] Initialize Session
+[2021-11-24T16:19:33.585844300] Encrypt: pg1.jpg
+[2021-11-24T16:20:05.141143200] Decrypt: pg1.enc.jpg
+[2021-11-24T16:22:07.062209500] Encrypt: pg1.jpg
+[2021-11-24T16:22:09.397159700] Decrypt: pg1.enc.jpg
+[2021-11-24T16:22:25.556835100] Error: File Not Encrypted
+[2021-11-24T16:22:27.297494700] Error: File Not Encrypted
+[2021-11-24T16:24:38.444442300] Close Session
+[2021-11-24T16:52:58.542708700] Initialize Session
+[2021-11-24T16:54:07.074470900] Encrypt: hello.txt
+[2021-11-24T16:54:21.190227800] Decrypt: hello.enc.txt
+[2021-11-24T16:56:12.306999400] Close Session
+[2021-11-24T18:00:08.673439200] Initialize Session
+[2021-11-24T18:00:23.590462] Encrypt: hello.txt
+[2021-11-24T18:00:41.324302400] Decrypt: hello.enc.txt
+[2021-11-24T18:01:42.389691800] Encrypt: LinguisticVariables.pdf
+[2021-11-24T18:01:53.746007700] Decrypt: LinguisticVariables.enc.pdf
+[2021-11-24T21:56:16.895650] Close Session
